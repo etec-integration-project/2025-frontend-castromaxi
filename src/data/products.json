@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Gaming Mouse",
+      "price": 49.99,
+      "category": "pc",
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500",
+      "description": "RGB gaming mouse with 7 programmable buttons"
+    },
+    {
+      "id": 2,
+      "name": "Premium Phone Case",
+      "price": 24.99,
+      "category": "mobile",
+      "image": "https://images.unsplash.com/photo-1541877590-a1885a0c5df0?w=500",
+      "description": "Shock-proof protective case with elegant design"
+    },
+    {
+      "id": 3,
+      "name": "Mechanical Keyboard",
+      "price": 89.99,
+      "category": "pc",
+      "image": "https://images.unsplash.com/photo-1601445638532-3c6f6c3aa1d6?w=500",
+      "description": "RGB mechanical keyboard with blue switches"
+    },
+    {
+      "id": 4,
+      "name": "Fast Charging Cable",
+      "price": 14.99,
+      "category": "mobile",
+      "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=500",
+      "description": "3m braided USB-C charging cable"
+    },
+    {
+      "id": 5,
+      "name": "Gaming Headset",
+      "price": 79.99,
+      "category": "pc",
+      "image": "https://images.unsplash.com/photo-1599669454699-248893623440?w=500",
+      "description": "Surround sound gaming headset with noise cancellation"
+    },
+    {
+      "id": 6,
+      "name": "Phone Stand",
+      "price": 19.99,
+      "category": "mobile",
+      "image": "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=500",
+      "description": "Adjustable aluminum phone stand"
+    }
+  ]
+}
